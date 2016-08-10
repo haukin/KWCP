@@ -13,12 +13,12 @@ namespace kwcp {
             bundles.Add(new ScriptBundle("~/bundles/modernizr").Include(
                         "~/Scripts/modernizr-*"));
 
-            bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
-                      "~/Scripts/libs/materalize/materalize.js",
+            bundles.Add(new ScriptBundle("~/bundles/core").Include(
+                      "~/Scripts/libs/materialize/materialize.js",
                       "~/Scripts/libs/respond/respond.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/css/libs/materalize/materalize.css"));
+                      "~/Content/css/libs/materialize/materialize.css"));
         }
     }
 }

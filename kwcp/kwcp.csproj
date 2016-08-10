@@ -194,7 +194,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Areas\HelpPage\HelpPage.css" />
-    <Content Include="Content\css\libs\materalize\materialize.css" />
+    <Content Include="Content\css\libs\materialize\materialize.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -245,7 +245,7 @@
     <None Include="Scripts\libs\jquery\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\libs\jquery\jquery-1.10.2.js" />
     <Content Include="Scripts\libs\jquery\jquery-1.10.2.min.js" />
-    <Content Include="Scripts\libs\materalize\materialize.js" />
+    <Content Include="Scripts\libs\materialize\materialize.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\libs\respond\respond.js" />
     <Content Include="Scripts\libs\respond\respond.min.js" />
